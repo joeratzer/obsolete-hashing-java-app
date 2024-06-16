@@ -1,4 +1,4 @@
-# A Java project that contains obsolete hashing method.
+# A Java project that contains obsolete hashing methods.
 **None of the methods should be used in a real application**
 
 ## Why does anyone need obsolete hashing?
