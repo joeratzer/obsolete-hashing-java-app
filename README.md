@@ -2,7 +2,7 @@
 **None of the methods should be used in a real application**
 
 ## Why does anyone need obsolete hashing?
-To evaluate code analysis tools, I wanted some code with known issues.
+To evaluate sbom/cbom tools, I wanted some code with known issues.
 
 ### Hashing
 The ObsoleteHasher class will generate an MD5 hash.
